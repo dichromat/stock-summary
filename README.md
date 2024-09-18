@@ -1,0 +1,1 @@
+Simple tool for getting the most positive and negative articles about a specific topic, as well as gauging overall sentiment about it.

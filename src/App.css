@@ -1,0 +1,7 @@
+.full-height-row {
+    height: 27vh; /* Each row takes up 1/3rd of the viewport height */
+  }
+
+.big-text {
+    font-size: 12rem;
+}
